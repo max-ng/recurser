@@ -1,0 +1,4 @@
+accelerate==0.16.0
+tiktoken==0.1.2
+torch==1.12.1
+transformers==4.26.0
