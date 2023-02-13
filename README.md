@@ -12,7 +12,7 @@ A new model and implementation to reduce VRAM usage on transformer models.
 
 
 ## Online demos
-Reduce the VRAM usage of GPT2-XL by 25%, so that we can run GPT2-XL with Pytorch in a colab or with our gpu.
+Reduce the VRAM usage of GPT2-XL by 25%, so that we can run GPT2-XL with Pytorch on the colab or with our gpu.
 
 [[Colab]](https://colab.research.google.com/drive/1UHlRvaSnAZz6T8H_Nj_BhDqMtSBCMlYT?usp=sharing)
 
